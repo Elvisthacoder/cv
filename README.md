@@ -1,2 +1,2 @@
 # cv
-[cv](http://scout-veronica-88468.bitballoon.com/)
+[cv](http://scout-veronica-88468.bi)
