@@ -1,0 +1,59 @@
+<html>
+<title> My cv </title>
+<head>
+<link rel="stylesheet" type="text/css" href="cv.css">
+</head>
+<body>
+<div id ="cv_name">
+<p> Ciruculum Vitae </p>
+</div>
+<section>
+<h4>  Personal Information </h4>
+<h4>  Education Background </h4>
+<h4>  Experience </h4>
+<h4>  Duties </h4>
+</section>
+<aside>
+<div id ="personal">
+<ul>
+<li> Name:     Elvis Kimemia         </li>
+<li> Age:      25       </li>
+<li> Sex:      Male         </li>
+<li> Religion: Christian        </li>
+<li> Country:  Kenya      </li>
+<li> Contacts: ekk213@gmail.com, +254 720 827 405  </li>
+</ul>
+</div>
+<div id="Education">
+<ul>
+<li> Primary Education:   C  </li>
+<li> Secondary Education: C </li>
+<li> University(JKUAT): Bachelors of Science in I.T (postgraduate) </li>
+<li> College(CPL): CISCO and ICDL </li>
+</ul>
+</div>
+<div id="experience">
+<ul>
+<li> JKUAT: Industrial and external Internship (6months) </li>
+<li> Two Way Communication Ltd: Network technician and CCTV installer (4months)  </li>
+<li> Freelancing </li>
+	<ul>
+		<li>website designs(html,css and javascript)</li>
+		<li>3D animations(3D max)</li>
+	</ul>
+</ul>
+</div>
+<div id="duties">
+<ul>
+<li> Installing network devices(routers,switches,hubs and brouters) </li>
+<li> CCTV installer with enhanced configuration(Dome,network cameras,biometric doors and electrical fencing) </li>
+<li> Network,hardware maintenance and computer assemblance </li>
+<li> Computer/Electronic repair and maintenance(ETR machines) </li>
+<li> LAN,WAN and wifi installation  </li>
+</ul>
+</div>
+</aside>
+</body>
+</html>
+
+
